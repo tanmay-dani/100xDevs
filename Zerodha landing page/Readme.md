@@ -1,4 +1,4 @@
-## As a part of the First Asignment I created a simple Zerodha clone using just HTML.
+# As a part of the First Asignment I created a simple Zerodha clone using just HTML.
 
 # This is a snapshot of how the page looks like.
 
